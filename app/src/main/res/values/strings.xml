@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UI test</string>
+    <string name="facebook_app_id">"iojgioh"</string>
+    <string name="fb_login_protocol_scheme">"oijhgfoijp"</string>
+    <string name="to_continue">To continue you need an account in wowReply</string>
+    <string name="or">OR</string>
+    <string name="sign_up_by">Sign Up by phone number or email</string>
+    <string name="by_registering">By registering you agree to the Terms of Use and acknowlege that you have read the
+        Privacy Policy
+    </string>
+    <string name="already_have">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="phone_number">Phone number</string>
+    <string name="name_and_password">Name and Password</string>
+    <string name="password">Password</string>
+    <string name="name_and_surname">Name and surname</string>
+</resources>
